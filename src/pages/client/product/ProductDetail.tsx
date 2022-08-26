@@ -27,7 +27,7 @@ const ProductDetail = () => {
   const [list, setList] = useState([]);
   const addToCart = (product:any) => {
       dispatch(cartSlice.actions.add(product));
-      toast('🦄 Wow so easy!', {
+      toast('🦄 Wow so easys!', {
         position: "top-right",
         autoClose: 5000,
         hideProgressBar: false,
