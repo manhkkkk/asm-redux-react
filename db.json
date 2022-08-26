@@ -1,0 +1,394 @@
+{
+  "orders": [
+    {
+      "userOrder": {
+        "name": "Phan đức mạnh",
+        "email": "admin@gmail.com",
+        "phone": "0865595936",
+        "address": "123"
+      },
+      "listOrder": [
+        {
+          "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A hai",
+          "originalPrice": 10000000,
+          "saleOffPrice": 8000000,
+          "categories": 1,
+          "feature": "3123123",
+          "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+          "id": 12,
+          "isDelete": false,
+          "amount": 10,
+          "total": 80000000
+        }
+      ],
+      "cartTotal": 80000000,
+      "status": "0",
+      "id": 6
+    },
+    {
+      "userOrder": {
+        "name": "Phan đức mạnh",
+        "email": "admin@gmail.com",
+        "phone": "123123123",
+        "address": "123123123"
+      },
+      "listOrder": [
+        {
+          "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A hai",
+          "originalPrice": 10000000,
+          "saleOffPrice": 8000000,
+          "categories": 1,
+          "feature": "3123123",
+          "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+          "id": 12,
+          "isDelete": false,
+          "amount": 10,
+          "total": 80000000
+        }
+      ],
+      "cartTotal": 80000000,
+      "status": "1",
+      "id": 7
+    },
+    {
+      "userOrder": {
+        "name": "Phan đức mạnh",
+        "email": "eqweqwe",
+        "phone": "3123123",
+        "address": "123123"
+      },
+      "listOrder": [
+        {
+          "name": "iPhone 14 Pro Max 128GB I Chính hãng VN/A ",
+          "originalPrice": 10000000,
+          "saleOffPrice": 8000000,
+          "categories": 1,
+          "feature": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone_12_pro_max_white_1.png",
+          "id": 13,
+          "isDelete": false,
+          "amount": 6,
+          "total": 48000000
+        }
+      ],
+      "cartTotal": 48000000,
+      "status": "0",
+      "id": 8
+    },
+    {
+      "userOrder": {
+        "name": "Phan đức mạnh",
+        "email": "admin@gmail.com",
+        "phone": "(+84) 865595936",
+        "address": "haf noi"
+      },
+      "listOrder": [
+        {
+          "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A hai",
+          "originalPrice": 10000000,
+          "saleOffPrice": 8000000,
+          "categories": 1,
+          "feature": "3123123",
+          "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+          "id": 12,
+          "isDelete": false,
+          "amount": 1
+        }
+      ],
+      "cartTotal": 8000000,
+      "status": "1",
+      "id": 9
+    },
+    {
+      "userOrder": {
+        "name": "Phan đức mạnh",
+        "email": "pktopad@gmail.com",
+        "phone": "(+84) 865595936",
+        "address": "viet nam"
+      },
+      "listOrder": [
+        {
+          "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A hai",
+          "originalPrice": 10000000,
+          "saleOffPrice": 8000000,
+          "categories": 1,
+          "feature": "3123123",
+          "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+          "id": 12,
+          "isDelete": false,
+          "amount": 1
+        }
+      ],
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 12 Pro Max 128GB I Chính hãng VN/A hii",
+      "originalPrice": 10000000,
+      "saleOffPrice": 8000000,
+      "categories": 1,
+      "feature": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone_12_pro_max_white_1.png",
+      "id": 11,
+      "isDelete": false
+    },
+    {
+      "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A hai",
+      "originalPrice": 10000000,
+      "saleOffPrice": 8000000,
+      "categories": 1,
+      "feature": "3123123",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+      "id": 12,
+      "isDelete": false
+    },
+    {
+      "name": "iPhone 14 Pro Max 128GB I Chính hãng VN/A ",
+      "originalPrice": 10000000,
+      "saleOffPrice": 8000000,
+      "categories": 1,
+      "feature": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone_12_pro_max_white_1.png",
+      "id": 13,
+      "isDelete": false
+    },
+    {
+      "name": "iPhone 15 Pro Max 128GB I Chính hãng VN/A ",
+      "originalPrice": 10000000,
+      "saleOffPrice": 8000000,
+      "categories": 1,
+      "feature": "eqweqweqwe",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/ip13-pro_2.jpg",
+      "id": 14,
+      "isDelete": false
+    },
+    {
+      "name": "iPhone 16 Pro Max 128GB I Chính hãng VN/A ",
+      "originalPrice": 10000000,
+      "saleOffPrice": 8000000,
+      "categories": 1,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/m/pms_1655902420.18254534_1.png",
+      "id": 16,
+      "isDelete": false
+    },
+    {
+      "name": "Apple MacBook Pro 13 Touch Bar M1 256GB 2020 I Chính hãng Apple Việt Nam ",
+      "originalPrice": 20000000,
+      "saleOffPrice": 15000000,
+      "categories": 2,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202011-spa.jpg",
+      "id": 20,
+      "isDelete": false
+    },
+    {
+      "name": "Laptop Gaming Acer Nitro 5 AN515 45 R6EV",
+      "originalPrice": 20000000,
+      "saleOffPrice": 15000000,
+      "categories": 2,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/0/_0000_46234_legion_5_15_phantom_blue_h.jpg",
+      "id": 21,
+      "isDelete": false
+    },
+    {
+      "name": "Laptop Huawei Matebook 14",
+      "originalPrice": 20000000,
+      "saleOffPrice": 15000000,
+      "categories": 2,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/2/_/2_64_37.jpg",
+      "id": 22,
+      "isDelete": false
+    },
+    {
+      "name": "Laptop Gaming Acer Nitro 5 AN515 45 R6EV",
+      "originalPrice": 20000000,
+      "saleOffPrice": 15000000,
+      "categories": 2,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/0/_0000_46234_legion_5_15_phantom_blue_h.jpg",
+      "id": 23,
+      "isDelete": false
+    },
+    {
+      "name": "Laptop Huawei Matebook 14",
+      "originalPrice": 20000000,
+      "saleOffPrice": 15000000,
+      "categories": 2,
+      "feature": "3123123213",
+      "description": "Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202011-spa.jpg",
+      "id": 24,
+      "isDelete": false
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "123123",
+      "username": "123123",
+      "role": 1,
+      "id": 13
+    },
+    {
+      "email": "ad@gmail.com",
+      "password": "$2a$10$qJtFMdcdqOJOcDjCEd/jAeh4DsCfKOz115yhSflSsKADBZeoXNw4u",
+      "username": "phan duc manh",
+      "role": 0,
+      "id": 14,
+      "phone": "3213123213"
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "123123",
+      "username": "123123",
+      "role": 0,
+      "id": 15
+    },
+    {
+      "email": "pktopad1@gmail.com",
+      "password": "$2a$10$6lpyGS0h73PzSwWcw66uF.9rTruXt2fZszVxv4PwIICw4DRCaG02a",
+      "username": "123123123",
+      "phone": "4192480124",
+      "id": 16
+    },
+    {
+      "email": "adsasd@gmail.com",
+      "password": "$2a$10$bYwBLwSACBAdHgikMBA2Nu31dMc4y9ZTs0tWuh7AZgcFVvbYagcR2",
+      "username": "pktopad",
+      "role": 0,
+      "id": 17
+    },
+    {
+      "email": "ewrewr@gmail.com",
+      "password": "$2a$10$wYh.Cm0mOiEx9sozFEEO/.yLpVpmYJTq3gbHL8dy7XOX8Nzev3BwG",
+      "username": "adasda",
+      "role": 0,
+      "id": 18
+    }
+  ],
+  "sories": [
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029109/anhhtus/amyhgr4nsgqx7gsdketp.png",
+      "id": 20
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029117/anhhtus/qphfqv9yyngma0ldxjkb.png",
+      "id": 21
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029126/anhhtus/ofmxeq9qica3iestqucp.png",
+      "id": 23
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029133/anhhtus/fl5udtrfpaksssplxqf2.png",
+      "id": 22
+    },
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1660028634/anhhtus/wv9fnnnidpifwya8vo2i.png"
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660028952/anhhtus/jyyk2sw3plwihwxw3vbo.png",
+      "id": 2
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660028993/anhhtus/k1tjpiass0vxt4frewsj.png",
+      "id": 3
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029012/anhhtus/cseh0emv140m2et1gqjv.png",
+      "id": 4
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029022/anhhtus/cgbnxlaby1wxe77shirp.png",
+      "id": 5
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029032/anhhtus/mippx3bklej8bldpqem8.png",
+      "id": 6
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029045/anhhtus/dc2pujkrivzwsxyehnwh.png",
+      "id": 8
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029058/anhhtus/v5j5rndsk0avvhjo4brk.png",
+      "id": 9
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029079/anhhtus/u1pxdgfkjuarktrtfttx.png",
+      "id": 10
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029091/anhhtus/prbaaozzjbib5qwmqdbt.png",
+      "id": 11
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029100/anhhtus/ghdibvx6efvgvngr21gy.png",
+      "id": 12
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029109/anhhtus/amyhgr4nsgqx7gsdketp.png",
+      "id": 13
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029117/anhhtus/qphfqv9yyngma0ldxjkb.png",
+      "id": 14
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029022/anhhtus/cgbnxlaby1wxe77shirp.png",
+      "id": 29
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029126/anhhtus/ofmxeq9qica3iestqucp.png",
+      "id": 15
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029133/anhhtus/fl5udtrfpaksssplxqf2.png",
+      "id": 16
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029141/anhhtus/a8safhytnkxthpiml2ai.png",
+      "id": 17
+    },
+    {
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660029156/anhhtus/upgya3gj1wpqbeb8efqs.png",
+      "id": 18
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "image": "https://cdn.cellphones.com.vn/media/icons/menu/icon-cps-3.svg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "image": "https://cdn.cellphones.com.vn/media/icons/menu/icon-cps-380.svg"
+    },
+    {
+      "id": 3,
+      "name": "Ipad",
+      "image": "https://cdn.cellphones.com.vn/media/icons/menu/icon-cps-4.svg"
+    }
+  ]
+}
