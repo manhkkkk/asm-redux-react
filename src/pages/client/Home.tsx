@@ -11,7 +11,6 @@ import banner from '../../lib/img/banner.png'
 import axios from 'axios';
 import styles from '../../components/client/style.module.css'
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
-import { useRouter } from 'next/router';
 import { useRef } from 'react';
 import banerchil from '../../lib/img/banerchildre.png'
 import { money } from '../../money';
