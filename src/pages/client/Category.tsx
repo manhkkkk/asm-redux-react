@@ -28,6 +28,8 @@ const Categories = (props: Props) => {
     const getCT = async () => {
       const { data } = await axios.get("https://json-server-phanducmanh.herokuapp.com/products");
       setProducts(data);
+      console.log(data);
+      
     };
     getCT();
   }, []);
