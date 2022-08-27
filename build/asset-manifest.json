@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/asm-redux-react/static/css/main.90d25ce1.css",
-    "main.js": "/asm-redux-react/static/js/main.cd2d955c.js",
+    "main.js": "/asm-redux-react/static/js/main.6925f628.js",
     "static/media/banner.png": "/asm-redux-react/static/media/banner.98fc9330e62ddd1e6867.png",
     "static/media/banerchildre.png": "/asm-redux-react/static/media/banerchildre.9f015543153b09754b64.png",
     "index.html": "/asm-redux-react/index.html",
     "main.90d25ce1.css.map": "/asm-redux-react/static/css/main.90d25ce1.css.map",
-    "main.cd2d955c.js.map": "/asm-redux-react/static/js/main.cd2d955c.js.map"
+    "main.6925f628.js.map": "/asm-redux-react/static/js/main.6925f628.js.map"
   },
   "entrypoints": [
     "static/css/main.90d25ce1.css",
-    "static/js/main.cd2d955c.js"
+    "static/js/main.6925f628.js"
   ]
 }
